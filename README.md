@@ -178,12 +178,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 
-# License
-
-MIT License
-
----
-
 # Author
 
-Developed by Gulshanpreet Kaur & Team.
+Developed by Gulshanpreet Kaur
